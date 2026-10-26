@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="de2450544eca059f22091f90870caecc185ee28f" name="rdibiasky ReaScripts">
+<index version="1" commit="b05caa13c3aa05fcee726af1ff14bcaf09b6764c" name="Randall Dibiasky Scripts">
   <category name="MIDI Editor">
     <reapack name="rdibiasky_Distribute MIDI notes evenly.lua" type="script" desc="Evenly space selected MIDI notes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 This script evenly spaces selected MIDI notes in the active MIDI editor.\par}
+}
+]]></description>
+      </metadata>
       <version name="1.0" author="rdibiasky" time="2026-10-26T11:43:45Z">
         <source main="main">https://raw.githubusercontent.com/rdibiasky/reascripts/main/MIDI%20Editor/rdibiasky_Distribute%20MIDI%20notes%20evenly.lua</source>
       </version>
@@ -11,6 +20,22 @@
     <reapack name="rdibiasky_Visual Pedalboard.lua" type="script" desc="Visual Pedalboard - live FX control surface">
       <version name="1.0.0" author="rdibiasky" time="2026-10-26T11:42:05Z">
         <source main="main">https://raw.githubusercontent.com/rdibiasky/reascripts/main/Utilities/Visual%20Pedalboard/rdibiasky_Visual%20Pedalboard.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Utilities/Visual Pedalboard">
+    <reapack name="rdibiasky_Visual Pedalboard.lua" type="script" desc="Visual Pedalboard - live FX control surface">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \fs24 \sa180 \li0 \fi0 A configurable REAPER FX pedalboard. Configuration is stored in the project and FX indices in the editor are one-based.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="rdibiasky" time="2026-10-26T13:21:02Z">
+        <source main="main">https://github.com/rdibiasky/reascripts/raw/b05caa13c3aa05fcee726af1ff14bcaf09b6764c/Utilities/Visual%20Pedalboard/rdibiasky_Visual%20Pedalboard.lua</source>
       </version>
     </reapack>
   </category>
