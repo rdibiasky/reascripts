@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" commit="de2450544eca059f22091f90870caecc185ee28f" name="rdibiasky ReaScripts">
+  <category name="MIDI Editor">
+    <reapack name="rdibiasky_Distribute MIDI notes evenly.lua" type="script" desc="Evenly space selected MIDI notes">
+      <version name="1.0" author="rdibiasky" time="2026-10-26T11:43:45Z">
+        <source main="main">https://raw.githubusercontent.com/rdibiasky/reascripts/main/MIDI%20Editor/rdibiasky_Distribute%20MIDI%20notes%20evenly.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Utilities">
+    <reapack name="rdibiasky_Visual Pedalboard.lua" type="script" desc="Visual Pedalboard - live FX control surface">
+      <version name="1.0.0" author="rdibiasky" time="2026-10-26T11:42:05Z">
+        <source main="main">https://raw.githubusercontent.com/rdibiasky/reascripts/main/Utilities/Visual%20Pedalboard/rdibiasky_Visual%20Pedalboard.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
