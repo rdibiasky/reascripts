@@ -46,6 +46,24 @@ REAPER's **Scripts** directory. Open that directory from **Options > Show
 REAPER resource path**. Then, in **Actions > Show action list**, choose **New
 action > Load ReaScript** and select the file.
 
+## Using script icons in REAPER
+
+To assign an icon to a script action:
+
+1. Add the script to REAPER through **Actions > Show action list**. If needed,
+   choose **New action > Load ReaScript** and select the script.
+2. Open the toolbar's context menu and choose **Customize toolbar**.
+3. Add the script action, select it in the toolbar editor, and click **Icon...**.
+4. Select the PNG icon file and apply the changes.
+
+You can select an icon directly from its folder, or copy it to `Data/toolbar_icons`
+inside REAPER's resource folder. To find that folder, choose
+**Options > Show REAPER resource path**.
+
+If an icon includes multiple PNG variants for different toolbar states or UI
+scales, keep the files together and follow REAPER's filename conventions when
+selecting or installing them.
+
 ## Repository structure
 
 ```text
