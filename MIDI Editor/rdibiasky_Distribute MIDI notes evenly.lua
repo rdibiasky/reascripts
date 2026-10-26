@@ -1,5 +1,5 @@
 -- @description Evenly space selected MIDI notes
--- @version 1.0
+-- @version 1.0.0
 -- @author rdibiasky
 -- @about
 --   This script evenly spaces selected MIDI notes in the active MIDI editor.
