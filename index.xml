@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Randall Dibiasky Scripts" commit="b05caa13c3aa05fcee726af1ff14bcaf09b6764c">
+<index version="1" name="Randall Dibiasky Scripts" commit="80a0cc4d8de2b95cda2a87e7b5fe92f8b44f2fd7">
   <category name="MIDI Editor">
     <reapack name="rdibiasky_Distribute MIDI notes evenly.lua" type="script" desc="Evenly space selected MIDI notes">
       <metadata>
@@ -29,6 +29,9 @@
       </metadata>
       <version name="1.0.0" author="rdibiasky" time="2026-10-26T13:21:02Z">
         <source main="main">https://github.com/rdibiasky/reascripts/raw/b05caa13c3aa05fcee726af1ff14bcaf09b6764c/Utilities/Visual%20Pedalboard/rdibiasky_Visual%20Pedalboard.lua</source>
+      </version>
+      <version name="1.1.0" author="rdibiasky (https://github.com/rdibiasky)" time="2026-10-29T15:57:28Z">
+        <source main="main">https://github.com/rdibiasky/reascripts/raw/80a0cc4d8de2b95cda2a87e7b5fe92f8b44f2fd7/Utilities/Visual%20Pedalboard/rdibiasky_Visual%20Pedalboard.lua</source>
       </version>
     </reapack>
   </category>
