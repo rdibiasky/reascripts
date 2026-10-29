@@ -1,6 +1,6 @@
 -- @description Visual Pedalboard - live FX control surface
--- @version 1.1.0
--- @author rdibiasky (https://github.com/rdibiasky)
+-- @version 1.1.1
+-- @author rdibiasky
 -- @about
 --   A configurable REAPER FX pedalboard. Configuration is stored in the
 --   project and FX indices in the editor are one-based.
